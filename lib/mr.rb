@@ -1,6 +1,7 @@
 # require "mr/version"
 require 'slack-ruby-bot'
-# require 'meeting_rooms.rb'
+require 'meeting_rooms.rb'
+# require_relative 'quickstart.rb'
 
 ENV['SLACK_API_TOKEN'] ='xoxb-32438496736-PINAZJrC2mwlCqqSc0bcHy8g'
 
